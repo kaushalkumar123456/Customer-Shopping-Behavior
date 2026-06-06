@@ -19,6 +19,17 @@ Customer behavior analysis is essential for understanding purchasing patterns, c
 
 This project leverages **Python, SQL, and Power BI** to analyze customer shopping behavior and transform raw transactional data into meaningful business insights.
 
+
+<p align="center">
+  <img src="images/2.png" alt="2" width="100%">
+</p>
+
+<p align="center">
+  <img src="images/3.png" alt="3" width="100%">
+</p>
+
+
+
 ### 🎯 Objectives
 
 * Analyze customer demographics and purchasing trends.
