@@ -1,7 +1,7 @@
 # 🛍️ Customer Shopping Behavior Analysis Dashboard
 
 <p align="center">
-  <img src="images/dashboard-overview.png" alt="Customer Behavior Dashboard" width="100%">
+  <img src="images/1.png" alt="1" width="100%">
 </p>
 
 <p align="center">
